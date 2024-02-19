@@ -1,3 +1,5 @@
+This repo is based on https://github.com/karpathy/nanoGPT (Original repo)
+
 WINDOWS TERMINAL 
 - python3 -m venv venv
 - cd venv
